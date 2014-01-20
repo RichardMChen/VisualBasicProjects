@@ -1,0 +1,3 @@
+A form that calculates the distance, in meters, that the object has 
+fallen during a certain time interval. The user inputs a time in seconds
+and displays the distance after the calculate button is pressed. 
