@@ -1,0 +1,16 @@
+A form of a sample retirement village to represent a form that calculates
+a monthly charge for living in the retirement village.
+The apartments can be occupied by either 1 or 2 people with the rent
+being no different with 1 or 2 people.
+
+The apartments:
+Empire Apartment 	$1,500.00 per month
+Italianate Apartment 	$1,650.00 per month
+Charlestown Apartment 	$1900.00 per month
+Regency Apartment 	$2000.00 per month
+
+Each resident of Shady Pines must take a meal plan. They are as follows:
+7 meals per week $400.00 per month
+14 meals per week $710.00 per month
+21 meals per week $980.00 per month
+
