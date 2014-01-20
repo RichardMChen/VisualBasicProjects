@@ -1,0 +1,3 @@
+A banking program that takes a number of checks for the month entered by the
+user and adds checking fees, depending on the number of checks, added to the
+base charge. The base charge and addtional fees are calculated and displayed.
